@@ -1,0 +1,9 @@
+  - name: chuck
+    context: "chuck"
+    always_run: false
+    optional: false
+    skp_report: true
+    trigger: "/jx chuck"
+    rerun_command: "/jx chuck"
+    source: "https://raw.githubusercontent.com/jx3rocks/github-repo/main/foo2.yaml"
+
