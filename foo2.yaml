@@ -21,3 +21,4 @@ spec:
            workingDir: /workspace/source
   serviceAccountName: tekton-bot
   timeout: 0h20m0s
+status: {}
